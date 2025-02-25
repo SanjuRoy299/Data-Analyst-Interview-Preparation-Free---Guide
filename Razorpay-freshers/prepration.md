@@ -41,3 +41,19 @@
 - What is the difference between measures and calculated columns? When would you use each?
 - How do you set up automatic data refresh schedules in Power BI?
 - How do you create or import custom visualizations in Power BI to enhance data presentation?
+
+# **Managerial Round questions**  ( 3rd Round )
+
+#### Business Impact & Decision Making:
+
+- Can you describe a time when your analysis directly impacted a business decision?
+- What kind of insights did you generate, and how did you convince stakeholders to take action?
+- If Razorpay’s transactions suddenly dropped by 20% in a day, how would you approach this problem?
+- What KPIs would you track, and how would you identify the root cause?
+
+#### Fraud Detection in Payments:
+
+- Suppose Razorpay is experiencing an increase in fraudulent transactions.
+- How would you use SQL, Python, and Power BI to detect fraud patterns?
+- What kind of machine learning techniques would you suggest for fraud detection?
+- How would you communicate the findings to non-technical stakeholders?
