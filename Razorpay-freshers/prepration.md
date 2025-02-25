@@ -57,3 +57,13 @@
 - How would you use SQL, Python, and Power BI to detect fraud patterns?
 - What kind of machine learning techniques would you suggest for fraud detection?
 - How would you communicate the findings to non-technical stakeholders?
+
+# Final HR Discussion & Compensation Revision
+
+Finally, the candidate got the offer letter!
+
+#####  Offer:
+
+- Fixed Component: 12 LPA
+- Variable Component: 2 LPA
+
