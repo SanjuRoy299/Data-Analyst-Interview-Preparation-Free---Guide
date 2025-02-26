@@ -1,6 +1,6 @@
 # Recently Asked Data Analyst Interview Questions
 
-### Round 1: Technical Interview
+### Technical Interview
 
 ##### 1. Introduction & Experience
 - Introduce yourself and provide a brief overview of your work experience.
