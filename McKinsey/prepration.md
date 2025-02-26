@@ -1,4 +1,4 @@
-# Recently Asked Data Analyst Interview Questions
+# Recently Asked Data Analyst Interview Questions ( Experience 2 Year )
 
 # Round 1: Initial Screening Interview
 - **Personal Introduction:** Share your background, experience in data analytics, and reasons for pursuing a career at McKinsey.
