@@ -19,7 +19,7 @@
 - Find and print duplicate values in a list of assorted numbers, along with the number of times each value is repeated.
 - Write a function to add two numbers, take input from the user, and handle possible input errors such as non-numeric input and empty input.
 
-### Round 2: Tech + Managerial 
+# Round 2: Tech + Managerial 
 
 ##### Project-Based Questions
 - Explain a data analytics project you have worked on end-to-end.
